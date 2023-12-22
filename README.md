@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Nikhil Khurana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi I am Nikhil!
 
-<!---
-nik-khurana/nik-khurana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currenty working as a Technical Project Manager @ Samsung Electronics America
+I recently graduated with MS CS degree. 
+I have can-do attitute, excellent time management skills who is looking for roles where I can use my skills to develop scalable software solutions.
+I am an active Contributer at Google Local Guides as well with over 4.2M views.
+Linkedin: https://www.linkedin.com/in/khurananikhil21/
+Website: https://nik-khurana.github.io/resume/
